@@ -1,0 +1,7 @@
+com\team4\compliance\ComplianceReportingMicroservicesApplication.class
+com\team4\compliance\ComplianceRule.class
+com\team4\compliance\service\ComplianceServiceI.class
+com\team4\compliance\Controller\DashboardController.class
+com\team4\compliance\service\ReportService.class
+com\team4\compliance\service\ComplianceService.class
+com\team4\compliance\Configuration.class
